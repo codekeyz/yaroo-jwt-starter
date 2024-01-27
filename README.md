@@ -1,8 +1,6 @@
-# Dart Blog Backend
+# Yaroo JWT Starter ![dart](https://github.com/codekeyz/yaroo-jwt-starter/actions/workflows/test.yml/badge.svg)
 
 Minimal Dart Backend example with JWT Authentication & SQLite Database for persistence
-
-![dart](https://github.com/codekeyz/yaroo-starter/actions/workflows/test.yml/badge.svg)
 
 ### Setup
 
