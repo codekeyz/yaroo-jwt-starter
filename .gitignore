@@ -1,0 +1,11 @@
+.dart_tool/
+*.g.dart
+*.sqlite
+
+
+_yoorm_tool/
+*.reflectable.dart
+
+# app
+.env
+storage/web/.session
